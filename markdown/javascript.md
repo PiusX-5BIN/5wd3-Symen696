@@ -5,6 +5,7 @@
 
 ## fightscene
 
+
 ## mijn strip
 
 <img src="images/strip1.png">

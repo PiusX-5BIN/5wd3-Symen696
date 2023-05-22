@@ -1,0 +1,35 @@
+#navhome{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -50px;
+}
+a{
+    margin-left: 30px;
+    color: #F9C70C;
+    
+}
+body{
+    background-color: white;
+}
+header{
+    background-color: #D3D3D3;
+    height: 100px;
+    width:100%;
+    margin-top: -10px;
+    text-align: left;
+    
+
+}
+h1{
+    position: relative;
+    margin-top: 60px;
+    font-style: garamond;
+    
+}
+article{
+ background-color: white;
+ width: 30%;
+}
+p{
+    width: 30%;
+}
