@@ -1,0 +1,28 @@
+/* BLOCKS INDEX*/
+
+@media only screen and (max-width: 1000px) {
+    #me {
+        position:absolute;
+        float: right;
+        margin-left: 350px;
+        height: 300px;
+        margin-top: -800px;
+    }
+    a{
+        font-size: 20px;
+
+    }
+    .banner-text{
+        font-size: 15px;
+        margin-left: 450px;
+    }
+    .logo{
+        width: 100%;
+    }
+  }
+/* BLOCKS INDEX*/
+
+
+@media only screen and (max-width: 1000px) {
+    
+  }
