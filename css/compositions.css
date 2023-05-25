@@ -21,7 +21,7 @@
 #navhome{
     position: absolute;
     margin-top: -10px;
-    background-color:#04d9ff;
+    background-color:#0000ae;
     width: 100%;
     
 }
@@ -45,8 +45,8 @@ article{
  font-size: 20px;
  margin-left: 60Px;
  margin-top: 50px;
- border: 1px solid #04d9ff;
- padding: 1%;
+ border: 1px solid #0000ae;
+ padding: 2%;
  margin-bottom: 20px;
 
 
@@ -55,13 +55,15 @@ article{
 #MDJT{
     font-size: 25px;
 }
-
+#titelblog{
+ margin-left: 60px;
+}
 footer {
-    position: fixed;
+
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color:#04d9ff;
+   background-color:#0000ae;
    color: white;
    height: 30px;
 }
@@ -71,7 +73,4 @@ footer {
     float: inline-end;
     font-size: 20px;
     margin-right: 10;
-    
-
-    
 }
