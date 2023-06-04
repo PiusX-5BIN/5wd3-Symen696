@@ -24,5 +24,15 @@
 
 
 @media only screen and (max-width: 1000px) {
+    #game{
+        position:relative;
+
+    height: 300px;
+    margin-left: -470px;
+    margin-top: 10px;
+  
+  
     
+        
+    }
   }

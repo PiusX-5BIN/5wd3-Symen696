@@ -11,12 +11,36 @@
     }
 
 #game{
-    float: right;
+    position: absolute;
+    left: 55%;
     height: 400px;
     margin-right: 100px;
+    margin-top: -200px;
     border: 2px solid #0000ae ;
 
 }
+#strip{
+    height: 300px;
+}
 img{
     height:100px
+}
+#chatbot{
+    position: absolute;
+    left: 60%;
+    top: 350Px;
+    height: 200px;
+}
+#siri{
+    position: absolute;
+    left: 60%;
+    top: 555Px;
+    height: 250px;
+}
+#snap{
+    position: absolute;
+    left: 60%;
+    top: 810Px;
+    height: 250px;
+    
 }
