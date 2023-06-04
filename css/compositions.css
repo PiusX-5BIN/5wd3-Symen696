@@ -83,59 +83,9 @@ footer {
 
 
 
-
-
-
-
-.strip {
-    padding: 30px;
-}
-.slider-wrapper{
-    position: relative;
-    width: 640px;
-    margin-bottom: 200px;
-    
-    
- 
-    
-}
-.slider{
-    display:flex;
-    aspect-ratio: 16/9;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    scroll-behavior: smooth;
-    box-shadow: 0 10px 48px -12px hsla(0, 0%,0%,0.25);
-    border-radius: 10px;
-}
-.slider img{
-    flex: 1 0 100%;
-    scroll-snap-align: start;
-    object-fit: cover;
-    height: 110%;
-    
-    margin-top: -50px;
-
-}
-.stripnav{
-     display:flex;
-     column-gap: 16px;
-     position: absolute;
-     bottom: 20px;
-     left: 50%;
-     transform: translateX(-50%);
-     z-index: 1;
-}
-.stripnav a{
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color:#0000ae;
-    opacity: 0.75;
-    transition: opacity ease 250ms;
-
-}
-.stripnav a:hover{
-    opacity: 1;
+#stripT{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: -550px;
 
 }
