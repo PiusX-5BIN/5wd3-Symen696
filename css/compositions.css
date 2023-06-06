@@ -33,6 +33,7 @@
     text-decoration: none;
     
     
+    
 }
 body{
     background-color: #EBEBEB;
@@ -67,6 +68,10 @@ footer {
    color: white;
    height: 30px;
 }
+.onderwerp{
+    margin-left: 95%;
+}
+
 #sender{
     
     float: right;
@@ -96,4 +101,6 @@ footer {
     width: 55%;
     margin-top: 50px;
 }
-    
+.all{
+    margin-top: 60px;
+} 

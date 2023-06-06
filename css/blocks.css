@@ -2,11 +2,7 @@
 
 @media only screen and (max-width: 1000px) {
     #me {
-        position:absolute;
-        float: right;
-        margin-left: 350px;
-        height: 300px;
-        margin-top: -800px;
+       height: 500Px;
     }
     a{
         font-size: 20px;
@@ -14,10 +10,23 @@
     }
     .banner-text{
         font-size: 15px;
-        margin-left: 450px;
+        margin-left: 700px;
+
     }
     .logo{
         width: 100%;
+    }
+    #footer-text{
+        font-size: 40Px;
+        margin-left: 70px;
+
+    }
+    footer{
+        height: 50px;
+    }
+    #sender{
+        font-size: 40px;
+        margin-right: 40Px;
     }
   }
 /* BLOCKS INDEX*/
@@ -35,6 +44,25 @@
     
         
     }
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    
+  .strip{
+    margin-left: 150px;
+    height: 400px;
+    width: 600px;
+  }
+  #stripT{
+    position: relative;
+    margin-top: 150Px;
+    float: none;
+    margin-left: 130px;
+    width: 700px;
+  }
+    
+        
+    
   }
 
 
