@@ -43,8 +43,8 @@ article{
  background-color: white;
  width: 40%;
  font-size: 20px;
- margin-left: 60Px;
- margin-top: 50px;
+ margin-left: 4%;
+ margin-top: 30px;
  border: 1px solid #0000ae;
  padding: 2%;
  margin-bottom: 20px;
@@ -92,3 +92,8 @@ footer {
     margin-top: -550px;
 
 }
+#blog2{
+    width: 55%;
+    margin-top: 50px;
+}
+    
